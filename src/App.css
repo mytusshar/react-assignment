@@ -9,44 +9,50 @@
 }​
 
 .Form {
+	width: 100%;
 	border-radius: 15px;
 	padding: 20px;
 }
 
 .Div {
+	width: 100%;
 	border-radius: 15px;
 	padding: 20px;
 }
 
 #input {
+	width: 92%;
 	background-color: rgb(200, 253, 231);
 	border-width: 2px;
-	margin: 5px;
+	margin-left: 20px;
+	margin-top: 10px;
 	padding: 10px;
 	border-radius: 10px;
-	font-size: 15px;
+	font-size: 18px;
 }
 
 #button {
+	width: 95%;
 	background-color: rgb(255, 102, 0);
 	border-width: 2px;
-	margin: 5px;
+	margin-left: 20px;
+	margin-top: 10px;
 	padding: 10px;
 	border-radius: 10px;
-	font-size: 15px;
+	font-size: 18px;
 }
 
 #table-cell {
 	background-color: rgb(53, 156, 84);
 	padding: 15px;
-	font-size: 18px;
+	font-size: 20px;
 	color: white;
 	text-align: center;
 }
 
 #table-head {
 	background-color: rgb(0, 128, 38);
-	padding: 15px;
-	font-size: 15px;
+	padding: 10px;
+	font-size: 20px;
 	color: white;
 }
